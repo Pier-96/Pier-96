@@ -1,4 +1,4 @@
-### Hi there 👋
+ Hi there 👋, I'm Piero
 
 - 👨🏼‍💻 I’m currently working on my portfolio 
 - 🌱 I’m currently learning python and improving javascript
